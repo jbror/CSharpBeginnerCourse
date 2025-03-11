@@ -1,3 +1,5 @@
-﻿var numberOfBillGates = "teddy";
-Console.WriteLine(numberOfBillGates);
-Console.WriteLine(numberOfBillGates);
+﻿string name = "Bror"; 
+
+long richDude = 19600000000;
+
+var charchar = "c";
